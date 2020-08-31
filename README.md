@@ -1,2 +1,11 @@
-# n7-ecg
-Signal Processing Project: Electrocardiogram Signal Analysis - 2nd year Electronics Engineering and Signal Processing at INP-ENSEEIHT
+# ECG Signal Analysis
+
+ECG signal processing and analysis:
+- power supply noise filtering
+- QRS complex detection
+- lost sample restoration
+- pathology classification
+
+Report and instructions are in French.
+
+Launch `code/DEMO.m` to execute the program.
